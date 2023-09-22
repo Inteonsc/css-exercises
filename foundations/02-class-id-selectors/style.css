@@ -1,0 +1,15 @@
+.class1{
+    background-color:lightpink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.class2{
+    font-size:24px;
+}
+#blue{
+    color:blue;
+    font-size:36px;
+}
+#green{
+    background-color:lightgreen;
+    font-weight:bold;
+}
